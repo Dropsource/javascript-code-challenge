@@ -10,3 +10,5 @@ $ http-server
 ```
 
 Then you can go to [http://localhost:8080](http://localhost:8080) to see the challenge.
+
+Most of your Javscript code should go inside challenge.js.
